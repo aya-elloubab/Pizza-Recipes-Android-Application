@@ -18,12 +18,14 @@ Pour exécuter cette application sur votre propre appareil Android, suivez les �
 
 ## Captures d'écran
 
-### Ecran de démarrage
-![Ecran de démarrage](images/Splash.png)
-### Liste des Pizza
-![Liste des Pizza](images/PizzaList.png)
-### Détail de recette
-![Détail de recette](images/PizzaDescription.jpg)
+### Écran de démarrage
+<img src="images/Splash.png" alt="Écran de démarrage" width="400"/>
+
+### Liste des Pizzas
+<img src="images/PizzaList.png" alt="Liste des Pizzas" width="400"/>
+
+### Détail de la recette
+<img src="images/PizzaDescription.jpg" alt="Détail de la recette" width="400"/>
 
 
 ## Vidéo Démo
