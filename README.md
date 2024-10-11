@@ -29,4 +29,4 @@ Pour exécuter cette application sur votre propre appareil Android, suivez les �
 
 
 ## Vidéo Démo
-![Demo Video](https://drive.google.com/file/d/1uu-RwNgb-LTVusZwQgkU27MPdIYEYR5e/view?usp=sharing)
+[Demo Video] (https://drive.google.com/file/d/1uu-RwNgb-LTVusZwQgkU27MPdIYEYR5e/view?usp=sharing)
