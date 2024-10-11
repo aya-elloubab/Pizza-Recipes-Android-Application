@@ -23,7 +23,7 @@ Pour exécuter cette application sur votre propre appareil Android, suivez les �
 ### Liste des Pizza
 ![Liste des Pizza](images/PizzaList.png)
 ### Détail de recette
-![Détail de recette](images/PizzaDescription.png)
+![Détail de recette](images/PizzaDescription.jpg)
 
 
 ## Vidéo Démo
