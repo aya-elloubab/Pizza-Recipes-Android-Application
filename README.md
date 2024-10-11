@@ -27,4 +27,4 @@ Pour exécuter cette application sur votre propre appareil Android, suivez les �
 
 
 ## Vidéo Démo
-![Demo Video](PizzaDemo.mp4)
+![Demo Video](images/PizzaDemo.mp4)
