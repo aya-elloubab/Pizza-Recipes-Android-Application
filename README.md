@@ -6,7 +6,7 @@ Cette application mobile Android permet de présenter des recettes de pizza avec
 **Recettes détaillées :**  Vue personnalisée pour chaque pizza, contenant une description, les ingrédients et les étapes de sa préparation.
 
 # Fonctionnalités supplémentaires
-**Écran de Démarrage Animé :** Un écran de démarrage avec animation qui redirige vers la liste des pizzas. 
+**Écran de Démarrage Animé :** Un écran de démarrage avec animation qui redirige vers la liste des pizzas.  
 **Partage via WhatsApp :** En sélectionnant une recette, l'utilisateur peut appuyer sur le bouton de partage, qui génère un message contenant la description et les détails de la pizza et l'envoie directement à un contact sur WhatsApp.
 
 # Installation
