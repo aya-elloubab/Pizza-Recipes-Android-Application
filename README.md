@@ -15,3 +15,16 @@ Pour exécuter cette application sur votre propre appareil Android, suivez les �
 **1.** Clonez ce dépôt sur votre machine locale : git clone https://github.com/aya-elloubab/Pizza-Recipes-Android-Application.git  
 **2.** Ouvrez le projet dans Android Studio.  
 **3.** Compilez et exécutez l'application sur un émulateur ou un appareil Android physique.  
+
+## Captures d'écran
+
+### Ecran de démarrage
+![Ecran de démarrage](images/Splash.png)
+### Liste des Pizza
+![Liste des Pizza](images/PizzaList.png)
+### Détail de recette
+![Détail de recette](images/PizzaDescription.png)
+
+
+## Vidéo Démo
+![Demo Video](PizzaDemo.mp4)
